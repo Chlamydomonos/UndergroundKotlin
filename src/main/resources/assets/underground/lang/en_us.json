@@ -1,0 +1,4 @@
+{
+  "death.attack.underground.on_ground": "%1$s died due to being on the ground",
+  "underground.message.on_ground": "Warning: You are currently on the ground and your GP is %1$d. If your GP reach zero, you will be punished!"
+}

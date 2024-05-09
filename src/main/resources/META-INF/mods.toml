@@ -6,21 +6,21 @@ loaderVersion="[3,)" # Require at least 3.x
 license='LGPL'
 
 [[mods]]
-modId="examplemod"
-version="${file.jarVersion}"
-displayName="ExampleMod"
-credits="The ExampleMod dev team"
-authors="ExampleModAuthor"
+modId="underground"
+version="1.0.0"
+displayName="Underground"
+credits="Chlamydomonos"
+authors="Chlamydomonos"
 description='''
-Example mod that uses Kotlin for Forge.
+Underground survival
 '''
-[[dependencies.examplemod]]
+[[dependencies.underground]]
     modId="forge"
     mandatory=true
     versionRange="[41,)"
     ordering="NONE"
     side="BOTH"
-[[dependencies.examplemod]]
+[[dependencies.underground]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.19,1.20)"

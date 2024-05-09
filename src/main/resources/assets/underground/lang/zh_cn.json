@@ -1,0 +1,4 @@
+{
+  "death.attack.underground.on_ground": "%1$s由于处于地面，被天罚杀死了",
+  "underground.message.on_ground": "警告，你正处于地面，且GP只剩%1$d。如果GP归零，你将受到天罚！"
+}
